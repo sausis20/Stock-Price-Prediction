@@ -1,7 +1,7 @@
 # Stock-Price-Prediction
 
 ## Stock price prediction
-This is a Machine Learning algorithm to predict if the stock price will increase the next day (tomorrow). We only want to buy the stock on days when the price will go up (we're against shorting the stock).
+This is a Machine Learning algorithm to predict if the stock price will increase the next day (tomorrow):
 
 - If the algorithm says that the price will increase, we'll buy the stock
 - If the algorithm says that the price will go down, we won't do anything.
